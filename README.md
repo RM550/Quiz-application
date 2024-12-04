@@ -24,7 +24,8 @@ Welcome to the **Quiz Application**! This fun and interactive app challenges you
 
 ## **📸 Preview**
 
-👉 **Live Demo**: [Try the Quiz Application here!](https://rm550.github.io/Quiz-applicatin)
+👉 [**Live Demo**](https://rm550.github.io/Quiz-application/)  
+
 
 ---
 
